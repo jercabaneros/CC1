@@ -1,1 +1,3 @@
-# CC1-CART-253-
+# CC1
+
+E1: Started exercise 1
